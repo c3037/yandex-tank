@@ -1,0 +1,5 @@
+<Monitoring>
+  <Host address="192.168.68.2" username="vagrant">
+      <CPU percpu="true"></CPU>
+  </Host>
+</Monitoring>

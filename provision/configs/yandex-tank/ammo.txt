@@ -1,0 +1,7 @@
+[Connection: close]
+[Host: webserver.local]
+[Cookie: None]
+/index.php
+/500.php
+[Cookie: test]
+/404.php
