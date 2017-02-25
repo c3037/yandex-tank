@@ -1,3 +1,5 @@
+### Important! All bash scripts on host machine must have LF type of line breaks. ###
+
 - Host IP: 192.168.68.1
 
 

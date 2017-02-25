@@ -1,4 +1,4 @@
 .idea
 .vagrant
-loadtests
+loadtests/*
 !loadtests/.gitkeep
