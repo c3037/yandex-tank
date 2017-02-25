@@ -10,8 +10,7 @@
 - Yandex.Tank: https://github.com/yandex/yandex-tank
 - Run Yandex.Tank:
 - - vagrant ssh yandex_tank
-- - yandex-tank [args]
-- - OR vagrant ssh yandex_tank -c "yandex-tank [args]"
+- - yandex-tank
 - Configs: ./provision/configs/yandex-tank
 - Result: ./loadtests
 - Yandex.Tank IP: 192.168.68.3
